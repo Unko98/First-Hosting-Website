@@ -161,12 +161,12 @@ img {
   font-weight: 200;
 }
 
+.top-container h1,
 .top-container h3,
-ul,
-ul li,
-a,
-span,
-h1 {
+.top-container ul,
+.top-container a,
+.top-container span,
+.top-container ul li {
   color: var(--light);
 }
 
